@@ -7,7 +7,11 @@ var emojiLibrary = {
   "🥡": "takeout box",
   "😟": "sad face",
   "💓": "love",
-  "👏": "clapping"
+  "👏": "clapping",
+  "🥳": "partying face",
+  "😎": "smiling face with sunglasses",
+  "👪": "family",
+  "🎯": "direct hit"
 };
 
 var emojisWeKnow = Object.keys(emojiLibrary);
